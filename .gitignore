@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+dist/
+client/dist/
+
+# Environment variables (Secrets)
+.env
+server/.env
+client/.env
+
+# IDE and OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
